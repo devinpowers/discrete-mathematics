@@ -25,10 +25,15 @@ Textbook used: Discrete Mathematics and Its Applications - Rosen 7th Edition
 # Chapter 2: Sets, Functions, Sequences, Sums, and Matrices
 
 2.1: Sets
+
 2.2: Set Operations
+
 2.3: Functions
+
 2.4: Sequences and Summations
+
 2.5: Cardinality of Sets
+
 2.6: Matrices
 
 
@@ -40,7 +45,9 @@ Textbook used: Discrete Mathematics and Its Applications - Rosen 7th Edition
 # Chapter 4: Number Theory and Cryptography
 
 4.1: Divisibilty and Modular Arithmetic
+
 4.2: Integer Representations and Algorithms
+
 4.3: Prime and Greatest Common Divisors
 
 # Also included is "Homework" problems that I have worked on.
