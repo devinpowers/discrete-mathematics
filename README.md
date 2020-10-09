@@ -63,7 +63,50 @@ Homework 4: Section 2.1-2.2
 Homework 5: Section 2.3-2.5
 
 
-Will continue to update this as I work through the book
+# Chapter 5 Induction and Recursion
+
+5.1: Mathematicial Induction
+
+5.2: Strong Induction
+
+5.3: Recursive Definitions
+
+5.4: Recursive Algorithms
+
+
+
+# Chapter 6 Counting
+
+6.1: The Basics of Counting
+
+6.2: The Pigeonhole Principle
+
+6.3: Permutations and Combinations
+
+6.4: Binomial Coefficients and Identities
+
+6.5: Generalized Permutations and Combinations
+
+
+# Chapter 7 Discrete Probability
+
+7.1: An Introduction to Discrete Probability
+
+7.2: Probability Theory
+
+
+# Chapter 9 Relations
+
+9.1: Relations and Their Properties
+
+9.2: n-ary Relations and Their Properties
+
+9.3: Representing Relations
+
+9.4 Closures of Relations
+
+
+
 
 
 
